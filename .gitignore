@@ -84,3 +84,5 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+produce.db3
